@@ -1,0 +1,107 @@
+$date
+	Mon May 16 02:37:53 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module prpg_3bit_lfsr_tb $end
+$scope module prpg_3bit_lfsr_tb $end
+$var wire 1 ! clk $end
+$var wire 1 " clr $end
+$var wire 3 # p_output [3:1] $end
+$var reg 3 $ tmp [3:1] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1 $
+b1 #
+1"
+1!
+$end
+#5
+0"
+#10
+0!
+#15
+b11 #
+b11 $
+1!
+#25
+0!
+#30
+b111 #
+b111 $
+1!
+#40
+0!
+#45
+b110 #
+b110 $
+1!
+#55
+0!
+#60
+b101 #
+b101 $
+1!
+#70
+0!
+#75
+b10 #
+b10 $
+1!
+#85
+0!
+#90
+b100 #
+b100 $
+1!
+#100
+0!
+#105
+b1 #
+b1 $
+1!
+#115
+0!
+#120
+b11 #
+b11 $
+1!
+#130
+0!
+#135
+b111 #
+b111 $
+1!
+#145
+0!
+#150
+b110 #
+b110 $
+1!
+#160
+0!
+#165
+b101 #
+b101 $
+1!
+#175
+0!
+#180
+b10 #
+b10 $
+1!
+#190
+0!
+#195
+b100 #
+b100 $
+1!
+#205
+0!
